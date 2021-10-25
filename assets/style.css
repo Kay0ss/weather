@@ -1,0 +1,55 @@
+
+
+h1{
+    text-align: center;
+    background-color:slateblue;
+    color: white;
+    font-weight: bold;
+
+}
+
+aside{
+    max-width: 25%;
+    /* position:static; */
+    min-width: 200px;
+    float: left;
+    
+}
+/* todo: style */
+#search {
+    max-width: 100%;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#search-button{
+    width: 100%;
+    margin-top: 5px;
+}
+
+hr {
+    border-top: 2px solid gray; 
+}
+
+#recently-searched{
+    padding: 0px;
+    
+}
+
+#recents{
+    /* margin: 10px;
+    width: 200%; */
+    width: 100%;
+    padding: 6px;
+    margin-top: 15px;
+
+} 
+
+#city-card{
+    width: 73%;
+    margin-right: 10px;
+    float: right;
+    height: auto;
+    
+}
